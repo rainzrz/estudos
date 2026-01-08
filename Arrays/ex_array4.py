@@ -1,9 +1,9 @@
 """
-4. Check if a number is prime
+4. Verificar se um número é primo
 
-Create a function that receives a number and returns whether it is prime or not.
+Crie uma função que receba um número e retorne se ele é primo ou não.
 
-Example
-Input: 7
-Output: true
+Exemplo
+Entrada: 7
+Saída: true
 """
