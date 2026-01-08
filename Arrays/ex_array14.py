@@ -1,8 +1,7 @@
 """
 14. Elemento mais frequente
 
-Crie uma função que receba um array de números inteiros
-e retorne o número que aparece com maior frequência.
+Crie uma função que receba um array de números inteiros e retorne o número que aparece com maior frequência.
 
 Se houver empate, retorne qualquer um dos números mais frequentes.
 
