@@ -1,4 +1,9 @@
 """
+█▀▀█ █▀▀█ ▀█▀ █▄─ █ █▀▀▀█ 
+█▄▄▀ █▄▄█  █─ █ █ █ ▄▄▄▀▀ 
+█─ █ █─ █ ▄█▄ █──▀█ █▄▄▄█
+               07/01/2026
+
 7. Find the largest number
 
 Create a function that finds the largest value in an array, without using built-in functions.
@@ -16,3 +21,6 @@ def find_largest_number(int_array=[]):
     return largest_number
 
 print(find_largest_number([10, 5, 20, 8]))
+
+
+

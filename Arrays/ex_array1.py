@@ -1,4 +1,9 @@
 """
+█▀▀█ █▀▀█ ▀█▀ █▄─ █ █▀▀▀█ 
+█▄▄▀ █▄▄█  █─ █ █ █ ▄▄▄▀▀ 
+█─ █ █─ █ ▄█▄ █──▀█ █▄▄▄█
+               07/01/2026
+               
 1. Remove duplicate numbers from an array
 
 Given an array of integers, return a new array containing only unique values, keeping the original order.

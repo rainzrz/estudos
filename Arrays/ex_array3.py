@@ -1,4 +1,9 @@
 """
+█▀▀█ █▀▀█ ▀█▀ █▄─ █ █▀▀▀█ 
+█▄▄▀ █▄▄█  █─ █ █ █ ▄▄▄▀▀ 
+█─ █ █─ █ ▄█▄ █──▀█ █▄▄▄█
+               07/01/2026
+               
 3. Count occurrences
 
 Create a function that counts how many times each number appears in an array.

@@ -1,4 +1,9 @@
 """
+█▀▀█ █▀▀█ ▀█▀ █▄─ █ █▀▀▀█ 
+█▄▄▀ █▄▄█  █─ █ █ █ ▄▄▄▀▀ 
+█─ █ █─ █ ▄█▄ █──▀█ █▄▄▄█
+               07/01/2026
+               
 2. Find the different number
 
 In an array where all numbers are even except one, find the odd number. Or all are odd except one even number.

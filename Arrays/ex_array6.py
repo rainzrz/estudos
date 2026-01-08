@@ -1,4 +1,9 @@
 """
+█▀▀█ █▀▀█ ▀█▀ █▄─ █ █▀▀▀█ 
+█▄▄▀ █▄▄█  █─ █ █ █ ▄▄▄▀▀ 
+█─ █ █─ █ ▄█▄ █──▀█ █▄▄▄█
+               07/01/2026
+               
 6. Sum only even numbers
 
 Given an array of numbers, return the sum of only the even numbers.
